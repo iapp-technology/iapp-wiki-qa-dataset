@@ -1,4 +1,4 @@
-# thai-wiki-qa-dataset
+# iapp-thai-wiki-qa-dataset
 Open Thai Wikipedia QA Dataset made by iApp Technology
 
 Thai Wikipedia Question Answering Dataset.
