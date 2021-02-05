@@ -11,5 +11,5 @@ Wanna know more iApp? https://iapp.co.th
 
 Wanna use some AI? https://ai.iapp.co.th
 
-For Squad Format, Coming soon....
+For SQuAD Format, Coming soon....
 
