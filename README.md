@@ -13,5 +13,3 @@ Wanna use some AI? https://ai.iapp.co.th
 
 Wanna use Thai QA system? https://ai.iapp.co.th/qa
 
-For SQuAD Format, Coming soon....
-
