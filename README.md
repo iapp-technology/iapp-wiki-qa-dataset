@@ -14,4 +14,4 @@ Wanna use some AI? https://ai.iapp.co.th
 Wanna use Thai QA system? https://ai.iapp.co.th/qa
 
 ## Special Thanks
-- Charin Polpanumas for cleaning and convert to SQuAD format.
+- Charin Polpanumas for data cleasing, converting to SQuAD format, writing the dataset card, and submitting to huggingface dataset.
