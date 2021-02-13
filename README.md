@@ -14,4 +14,4 @@ Wanna use some AI? https://ai.iapp.co.th
 Wanna use Thai QA system? https://ai.iapp.co.th/qa
 
 ## Special Thanks
-- Charin Polpanumas
+- Charin Polpanumas for cleaning and convert to SQuAD format.
