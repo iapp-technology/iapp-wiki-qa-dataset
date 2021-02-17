@@ -3,7 +3,7 @@ Open Thai Wikipedia QA Dataset made by iApp Technology
 
 Thai Wikipedia Question Answering Dataset.
 - 1,961 Documents
-- 9,170 Questions
+- 9,147 Questions
 
 Contributed by iApp Technology for Thai NLP with love. ❤️❤️❤️
 
